@@ -19,11 +19,12 @@
 
 ---
 
-## 📂 Projects
+## 📂
+Projects
 - 📊 Excel Data Validation & Formatting Project  
-- 📊 Excel Dashboard Project (Coming Soon)  
-- 🗄 SQL Data Analysis Project (Coming Soon)  
-- 🐍 Python EDA Project (Coming Soon) 
+- 📊 Excel Dashboard Project  
+- 🗄 SQL Data Analysis Project   
+- 🐍 Python EDA Project 
 
 ---
 
