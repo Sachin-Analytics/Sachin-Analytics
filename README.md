@@ -34,9 +34,9 @@ Everything is organized by phase in **[data-science-journey](https://github.com/
 | Phase | What's inside | Key skills shown |
 |-------|---------------|------------------|
 | 📊 [**Excel**](https://github.com/Sachin-Analytics/data-science-journey/tree/main/excel) | 4 practice sets: data validation & conditional formatting, sorting/filtering & text functions, VLOOKUP & logical formulas, pivot tables, SUMIF family & macros | Data cleaning · Lookups · Aggregation · Reporting |
-| 🗄️ [**SQL**](https://github.com/Sachin-Analytics/data-science-journey/tree/main/sql/practice-set-1) | Solved MySQL query sets on real schemas (Worker DB: 20 queries) — datasets included so anyone can reproduce | SELECT · LIKE patterns · GROUP BY · HAVING · Date functions |
+| 🗄️ [**SQL**](https://github.com/Sachin-Analytics/data-science-journey/tree/main/sql) | 2 solved MySQL query sets on real schemas (Worker DB · ClassicModels · Nobel Prize: 38 queries) plus datasets to reproduce | SELECT · LIKE · BETWEEN · IN · GROUP BY · HAVING · Date functions |
 
-⏳ **Uploading next:** SQL sets 2–4 → Python EDA notebooks → ML projects — this repo grows every week.
+⏳ **Uploading next:** SQL sets 3–4 → Python EDA notebooks → ML projects — this repo grows every week.
 
 ## 📈 GitHub Stats
 
