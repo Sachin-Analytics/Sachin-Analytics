@@ -48,4 +48,4 @@ Everything is organized by phase in **[data-science-journey](https://github.com/
 - ✉️ Email: [moresachin9124@gmail.com](mailto:moresachin9124@gmail.com)
 
 ---
-<p align="center"><i>📌 Currently open to Data Analyst opportunities.</i></p>
+<p align="center"><i>📌 Currently open to AI/DATA/ML opportunities.</i></p>
