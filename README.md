@@ -38,9 +38,6 @@ Everything is organized by phase in **[data-science-journey](https://github.com/
 
 ⏳ **Uploading next:** Python EDA notebooks → ML projects — this repo grows every week.
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sachin-Analytics&show_icons=true&hide_border=true&count_private=true)
 
 ## 📫 Let's Connect
 
