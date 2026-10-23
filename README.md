@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sachin-Analytics/data-science-journey">Portfolio</a> ·
+  <a href="#projects">Projects</a> ·
   <a href="mailto:moresachin9124@gmail.com">Email</a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## About
 
-Data professional trained across the full analytics stack: Excel, SQL, Python, Machine Learning and Power BI. I turn raw data into clear insights, dashboards and decisions. All my work is documented and reproducible in [data-science-journey](https://github.com/Sachin-Analytics/data-science-journey).
+Data professional trained across the full analytics stack: Excel, SQL, Python, Machine Learning and Power BI. I turn raw data into clear insights, dashboards and decisions.
 
 **Open to roles:** Data Analyst · Junior Data Scientist · AI/ML Engineer · Data Engineer
 
@@ -28,10 +28,8 @@ Data professional trained across the full analytics stack: Excel, SQL, Python, M
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A66C2?style=flat-square)
-![AI](https://img.shields.io/badge/AI-0A66C2?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 | Category | Skills |
@@ -45,6 +43,7 @@ Data professional trained across the full analytics stack: Excel, SQL, Python, M
 
 | Area | Project | Key Skills |
 |------|---------|-----------|
+| Regression | [Vehicle MPG Prediction](https://github.com/Sachin-Analytics/vehicle-mpg-prediction): Linear, Ridge, Lasso and ElasticNet on 33K EPA vehicle records | Scikit-learn, Pipelines, Feature Engineering, Model Comparison |
 | Excel | [Excel Practice Sets](https://github.com/Sachin-Analytics/data-science-journey/tree/main/excel): data validation, conditional formatting, lookups, logical formulas, pivot tables, SUMIF family, macros | Data cleaning, Lookups, Aggregation, Reporting |
 | SQL | [MySQL Query Sets](https://github.com/Sachin-Analytics/data-science-journey/tree/main/sql): 60+ queries on Worker, ClassicModels, Nobel Prize, Sales and HR databases | Joins, Subqueries, GROUP BY, Window and Date Functions |
 
