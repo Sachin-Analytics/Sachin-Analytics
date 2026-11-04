@@ -1,3 +1,5 @@
+# Sachin More
+
 <h1 align="center">Sachin More</h1>
 
 <h3 align="center">Data Analyst | Data Science | AI & Machine Learning</h3>
@@ -43,6 +45,7 @@ Data professional trained across the full analytics stack: Excel, SQL, Python, M
 
 | Area | Project | Key Skills |
 |------|---------|-----------|
+| Classification | [Travel Insurance Prediction](https://github.com/Sachin-Analytics/Travel-Insurance-Prediction): Binary classification using Default and Balanced Logistic Regression to predict travel insurance purchases. | Python, Pandas, EDA, Feature Engineering, Logistic Regression, Scikit-learn |
 | Regression | [Vehicle MPG Prediction](https://github.com/Sachin-Analytics/vehicle-mpg-prediction): Linear, Ridge, Lasso and ElasticNet on 33K EPA vehicle records | Scikit-learn, Pipelines, Feature Engineering, Model Comparison |
 | Excel | [Excel Practice Sets](https://github.com/Sachin-Analytics/data-science-journey/tree/main/excel): data validation, conditional formatting, lookups, logical formulas, pivot tables, SUMIF family, macros | Data cleaning, Lookups, Aggregation, Reporting |
 | SQL | [MySQL Query Sets](https://github.com/Sachin-Analytics/data-science-journey/tree/main/sql): 60+ queries on Worker, ClassicModels, Nobel Prize, Sales and HR databases | Joins, Subqueries, GROUP BY, Window and Date Functions |
@@ -53,4 +56,5 @@ Data professional trained across the full analytics stack: Excel, SQL, Python, M
 - Email: [moresachin9124@gmail.com](mailto:moresachin9124@gmail.com)
 
 ---
+
 <p align="center">Open to Data Analyst, Junior Data Scientist, AI/ML Engineer and Data Engineer roles</p>
