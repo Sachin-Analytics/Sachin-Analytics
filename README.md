@@ -45,4 +45,15 @@ Data professional trained across the full analytics stack: Excel, SQL, Python, M
 |------|---------|-----------|
 | Machine Learning | [Accident Severity Prediction using KNN](https://github.com/Sachin-Analytics/Accident-Severity-Prediction-using-KNN): Multi-class classification on 12K road accident records, comparing baseline, distance-weighted, SMOTE and SMOTENC KNN to handle class imbalance. | Python, Pandas, EDA, KNN, SMOTE/SMOTENC, Scikit-learn |
 | Machine Learning | [Travel Insurance Prediction](https://github.com/Sachin-Analytics/Travel-Insurance-Prediction): Binary classification using Default and Balanced Logistic Regression to predict travel insurance purchases. | Python, Pandas, EDA, Feature Engineering, Logistic Regression, Scikit-learn |
-| Machine Learning | [Vehicle MPG Prediction](https://github.com/Sachin-Analytics/vehicle-mpg-prediction): Linear, Ridge, Lasso and ElasticNet on 33K EPA vehicle records. |
+| Machine Learning | [Vehicle MPG Prediction](https://github.com/Sachin-Analytics/vehicle-mpg-prediction): Linear, Ridge, Lasso and ElasticNet on 33K EPA vehicle records. | Scikit-learn, Pipelines, Feature Engineering, Model Comparison |
+| Excel | [Excel Practice Sets](https://github.com/Sachin-Analytics/data-science-journey/tree/main/excel): Data validation, conditional formatting, lookups, logical formulas, pivot tables, SUMIF family, macros. | Data Cleaning, Lookups, Aggregation, Reporting |
+| SQL | [MySQL Query Sets](https://github.com/Sachin-Analytics/data-science-journey/tree/main/sql): 60+ queries on Worker, ClassicModels, Nobel Prize, Sales and HR databases. | Joins, Subqueries, GROUP BY, Window and Date Functions |
+
+## Contact
+
+- GitHub: [@Sachin-Analytics](https://github.com/Sachin-Analytics)
+- Email: [moresachin9124@gmail.com](mailto:moresachin9124@gmail.com)
+
+---
+
+<p align="center">Open to Data Analyst, Junior Data Scientist, AI/ML Engineer and Data Engineer roles</p>
